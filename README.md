@@ -3,11 +3,11 @@ Este codigo calcula la cantidad de matrices invertibles 2x2 bajo Z_{6}, Z_{9} y 
 
 
 
-package matricesinv;
-public class MatricesInv 
-{
-    public static void main(String[] args) 
-    {
+        package matricesinv;
+        public class MatricesInv 
+        {
+         public static void main(String[] args) 
+            {
         int cont=0;
         for(int a=0;a<6;a++)
         {
